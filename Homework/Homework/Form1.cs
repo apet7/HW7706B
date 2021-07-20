@@ -212,7 +212,7 @@ namespace Homework
                 DateTimePickerReset();
             }
 
-            // 用年份計算..?
+            // 一年以上...寫不出來...
             //if (Selectdays.Days > 366)
             //{
             //    this.txtAns.Text = $"使用期間: {dtpStart.Value.ToString("yyyy/MM/dd")} ~ {dtpEnd.Value.ToString("yyyy/MM/dd")}\n"
